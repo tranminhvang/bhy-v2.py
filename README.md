@@ -30,7 +30,7 @@ python bhy-v2.py
 [06] Full System Audit: Comprehensive service & OS detection.
 
 ## 🛠️ Hardware Optimization
- * **Device:** Optimized for **kali linux**.
+ * **Device:** Optimized for **kali linux , Termux**.
  * **Cooling:** Mandatory use of **Mobile Phone Cooler**.
  * **Power:** Keep battery above **100%** or connect to a charger.
 ## ⚖️ Legal Disclaimer

@@ -1,5 +1,8 @@
 # 🔴 BHY-Toolkit V2 Ultimate Gold
-**Developer:** tranminhvang (Minh Vang) | **Version:** 2.0 (Official Stable)
+👤 DEVELOPER
+Author: tranminhvang (Minh Vang)
+Version: 2.0 (Official Stable)
+Base: Ho Chi Minh City, VN 🇻🇳
 ## 🚀 Quick Installation Guide
 To install and run the toolkit on your device, copy and paste the following command block:
 ```bash
@@ -20,7 +23,7 @@ python bhy-v2.py
  * **[05] Directory Fuzzer:** Fast hidden path discovery.
 ## 🛠️ Hardware Optimization
  * **Device:** Optimized for **kali linux**.
- * **Cooling:** Mandatory use of **smartphone**.
+ * **Cooling:** Mandatory use of **Mobile Phone Cooler**.
  * **Power:** Keep battery above **100%** or connect to a charger.
 ## ⚖️ Legal Disclaimer
 This tool is for **educational purposes and authorized security testing only**. The developer (**tranminhvang**) is not responsible for any misuse, damage, or legal consequences resulting from the use of this framework. Use ethically.

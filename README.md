@@ -16,11 +16,19 @@ cd bhy-v2.py
 python bhy-v2.py
 
 ```
-## ⚡ Core Features
- * **[01] Network Recon:** Port scanning with Nmap.
- * **[02] SQL Injection:** Automated vulnerability scanner.
- * **[03] DDoS Stress Test:** High-power 800-thread engine.
- * **[05] Directory Fuzzer:** Fast hidden path discovery.
+## ⚡ ALL-IN-ONE FEATURES (6 TOOLS)
+[01] Network Recon: Stealthy port scanning with Nmap.
+
+[02] SQL Vulnerability: Automated database security audit.
+
+[03] DDoS Stress Test: High-power engine with 800 threads.
+
+[04] Domain WHOIS: Intelligence gathering on target domains.
+
+[05] Directory Fuzzer: Discovery of hidden web paths.
+
+[06] Full System Audit: Comprehensive service & OS detection.
+
 ## 🛠️ Hardware Optimization
  * **Device:** Optimized for **kali linux**.
  * **Cooling:** Mandatory use of **Mobile Phone Cooler**.
